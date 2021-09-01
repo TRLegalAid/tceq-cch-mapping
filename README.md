@@ -11,7 +11,7 @@
 
 * tl_2020_48_tabblock20 - This is a folder containing a shapefile of all 2020 Texas Census Block boundaries. This file and the files in the next folder are too large to keep on GitHub! Find this file [here](https://www2.census.gov/geo/tiger/TIGER2020/TABBLOCK20/), download it, and unzip it inside the input folder. 
 
-* tx2020.pl - This is a folder containing all of the 2020 Census Redistricting Data released in legacy format on Aug. 16, 2021. Download the folder (here)[https://www2.census.gov/programs-surveys/decennial/2020/data/01-Redistricting_File--PL_94-171/Texas/], and unzip it in the input folder.
+* tx2020.pl - This is a folder containing all of the 2020 Census Redistricting Data released in legacy format on Aug. 16, 2021. Download the folder [here](https://www2.census.gov/programs-surveys/decennial/2020/data/01-Redistricting_File--PL_94-171/Texas/), and unzip it in the input folder.
 
 
 ### interim
