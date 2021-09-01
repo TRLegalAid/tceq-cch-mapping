@@ -7,7 +7,7 @@
 
 ### input
 
-* tceq_cch_facilities.csv - This file should already be in your folder if you've cloned this repository. These are TCEQ facility addresses that we previously geocoded with Geocod.io, and manually verified with Google Maps. 
+* tceq_cch_facilities.csv - This file should already be in your folder if you've cloned this repository. These are the permit-seeking facility addresses that we previously geocoded with Geocod.io, and manually verified with Google Maps. 
 
 * tl_2020_48_tabblock20 - This is a folder containing a shapefile of all 2020 Texas Census Block boundaries. This file and the files in the next folder are too large to keep on GitHub! Find this file [here](https://www2.census.gov/geo/tiger/TIGER2020/TABBLOCK20/), download it, and unzip it inside the input folder. 
 
