@@ -25,7 +25,7 @@
 ## Scripts
 ### analysis-acs-block-groups.R
 
-This script produces the data layers in this [ArcGIS Online map] (https://arcg.is/Wy5XD)
+This script produces the data layers in this [ArcGIS Online map](https://arcg.is/Wy5XD)
 
 
 ### pl_all_4_2020_dar.r
