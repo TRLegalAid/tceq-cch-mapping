@@ -1,0 +1,56 @@
+﻿docket_no,facility_permit_type,applicant,address_of_proposed_facility,corrected_address,any_cch_granted,permit_outcome,Latitude,Longitude,notes,Accuracy Score,Accuracy Type,Number,Street,Unit Type,Unit Number,City,State,County,Zip,Country,Source
+2019-0061-AIR,New Source Review Authorization; Cotton Gin,"Adobe Walls Gin, LP","3.75 miles south of the intersection of Highway 70 and Highway 171 and 0.50 mile west of Highway 70, Pampa, Gray County",Coordinates updated based on map in ED response,Denied,Granted,35.44967438,-100.9809258,,0,,,,,,,,,,,
+2017-1727-AIR,New Source Review Authorization; rock crushing permit,"J.R. Thompson, Inc. ","The plant is proposed to be located at the following driving directions:  from the intersection of Farm-to -Market Road 373 and County Road 337, travel northeast on County Road 337 for approximately 1.1 miles. The proposed site is located to the south of Muenster, Cooke County.",Coordinates updated based on map in ED response,Denied,Granted,33.53122212,-97.37399087,,0,,,,,,,,,,,
+2017-0085-AIR,New Source Review Authorization; an existing surface coating/pipe fabrication plant,"Lincoln Manufacturing, Inc.","31209 FM 2978 Road
+Magnolia, Montgomery Count","31209 FM2978, Magnolia, TX 77354",Granted,Granted with modifications,30.20243397,-95.58256453,,0,,,,,,,,,,,
+2019-1162-AIR,New Source Review Authorization; Cement plant,US Cement LLC,"6.5 miles north on US 377 from the intersection of
+100 West Main Street and US 377, Brady, McCulloch County",Coordinates updated based on map in ED response,Granted,Withdrawn,31.22013836,-99.29011947,Map in ED response shows 1 mile radius buffer around two different points -- facility boundary and quarry center. Coordinates listed here are for facility boundary,0.25,intersection,,E 6th St,,,Brady,TX,McCulloch County,76825,US,TIGER/LineÂ® dataset from the US Census Bureau
+2021-0403-AIR,"New Source
+Review Authorization; Sand plant","Black Mountain Sand Eagle Ford, LLC","176 Merz Circle
+Carrizo Springs, TX 78834","1176 Merz Cir, Carrizo Springs, TX 78834",Granted,TBD,28.4677859,-99.91269556,,0.33,place,,,,,Carrizo Springs,TX,Dimmit County,78834,US,TIGER/LineÂ® dataset from the US Census Bureau
+ 2018-1239-AIR,New Source Review Authorization; Marine Terminal Facility,The Kansas City Southern Railway Company,"7200 Highway 87
+Port Arthur, Jefferson County, Texas 77642",Coordinates updated based on map in ED response,Denied,Granted,29.9441227,-93.87582549,,0.6,street_center,,TX 73,,,Port Arthur,TX,Orange County,77642,US,TIGER/LineÂ® dataset from the US Census Bureau
+2019-0902-AIR,New Source Review Authorization; Rock Crushing Plant,"Ingram Concrete, LLC","346 County Road 401
+Nemo, Somervell County",Coordinates updated based on map in ED response,Granted,Granted,32.25050765,-97.70005397,,0.65,nearest_rooftop_match,322,W Moore St,,,Granbury,TX,Hood County,76048,US,Hood
+2020-0193-AIR,New Source Review Authorization; LNG Export Terminal,"Annova LNG Common Infrastructure, LLC","Beginning in Brownsville, Cameron County, follow Boca Chica
+Boulevard east to the intersection of Boca Chica Boulevard and Kingston Avenue,","Coordinates entered for the intersection of Boca Chica Boulevard and Kingston Avenue in Brownsville, TX",Denied,Granted,25.96206982,-97.283516,,0.67,place,,,,,Avon,IN,Hendricks County,46123,US,TIGER/LineÂ® dataset from the US Census Bureau
+2019-1473-AIR,New Source Review Authorization; Rock Crushing Plant,"Collier Materials, Inc. ","From the intersection of Highway 71 and Farm-to-Market Road 2233, travel approximately 1.3 miles east on Highway 71 to the site
+entrance on the north side, Sunrise Beach Village, Llano County. C",Coordinates updated based on map in ED response,Granted,Withdrawn,30.56874068,-98.46390359,,0.8,place,,,,,Sunrise Beach Village,TX,Llano County,78643,US,TIGER/LineÂ® dataset from the US Census Bureau
+2021-0049-AIR,"New Source Review
+Authorization","Equistar Chemicals, LP","1501 McKinzie Road
+Corpus Christi, TX 78410","1501 Mckinzie Rd
+Corpus Christi, TX 78410",Denied,Granted,27.822524,-97.572165,,0.9,range_interpolation,1501,McKinzie Rd,,,Corpus Christi,TX,Nueces County,78410,US,TIGER/LineÂ® dataset from the US Census Bureau
+2021-0054-AIR," Renewal and amendment of its existing New Source Review
+Authorization","Martin Marietta Materials Southwest, LLC","5529 TX-27
+Center Point, TX 78010",,Granted,TBD,29.950326,-99.064159,,1,rooftop,5529,Highway 27,,,Center Point,TX,Kerr County,78010,US,Kerr
+2020-1325-AIR,"New Source
+Review Authorization","Citgo Refining and Chemical Company, LP","1801 Nueces Bay Blvd
+Corpus Christi, TX 78407",,Granted,TBD,27.804077,-97.429889,,1,rooftop,1801,Nueces Bay Blvd,,,Corpus Christi,TX,Nueces County,78407,US,Nueces
+2021-0051-AIR,"New Source
+Review Authorization; Cement plant","Holcim (US), Inc","1800 Dove Ln
+Midlothian, TX 76065",,Denied,Granted,32.511567,-96.972471,,1,rooftop,1800,Dove Ln,,,Midlothian,TX,Ellis County,76065,US,Ellis
+2020-0837-AIR,"New Source Review Authorization, Preconstruction Permit",Epic Piping LLC,"2301 N Interstate 35 Frontage Rd
+San Marcos, TX 78666",,Denied,Granted,29.909591,-97.902817,,1,rooftop,2301,N Ih,,35,San Marcos,TX,Hays County,78666,US,Capcog
+2020-0716-AIR,"New Source
+Review Authorization; refinery plants","Citgo Refining and Chemical Company, LP","1801 Nueces Bay Blvd
+Corpus Christi, TX 78407",,Granted,Withdrawn but remanded to ED,27.804077,-97.429889,,1,rooftop,1801,Nueces Bay Blvd,,,Corpus Christi,TX,Nueces County,78407,US,Nueces
+2020-0406-AIR,New Source Review Authorization: natural-gas fired vertical lime kiln,"Lhoist North America of Texas, LLC","7829 US-281
+Burnet, TX 78611",,Denied,Granted,30.656052,-98.252725,,1,rooftop,7829,S US 281,,,Burnet,TX,Burnet County,78611,US,Burnet
+2019-0624-AIR,New Source Review Authorization; LNG Export Terminal,Texas LNG Brownsville LLC,"From the intersection of State Highway 48 and State Highway 550, continue on State
+Highway 48 for 12.2 miles, the gate to the location is on the right, Brownsville,
+Cameron County",,Granted,Granted with modifications,25.963264,-97.550453,,1,place,,,,,Brownsville,TX,Cameron County,78520,US,TIGER/LineÂ® dataset from the US Census Bureau
+2018-0710-AIR,"New Source Review Authorization, Preconstruction Permit; Concrete crushing facility","K & K Construction, Inc","10300 Farrell Road
+ Willis, Montgomery County, Texas",,Granted,Granted with modifications,30.402509,-95.441119,,1,range_interpolation,10300,Farrell Rd,,,Willis,TX,Montgomery County,77378,US,TIGER/LineÂ® dataset from the US Census Bureau
+2018-1303-AIR,New Source Review Authorization; Rock Crushing Plant,"Vulcan Construction Materials, LLC","located on property whose northeast corner is the southwest corner of the intersection of Highway 46 and Farm-to -Market Road 3009, Bulverde, Comal County, Texas",,Granted,Granted,29.776691,-98.46263,,1,place,,,,,Bulverde,TX,Comal County,78163,US,TIGER/LineÂ® dataset from the US Census Bureau
+2018-1304-AIR,"New Source Review Authorization; natural gas liquefaction facility
+and LNG export terminal","Rio Grande LNG, LLC","Facility is located on State Highway 48 approximately 15.2 miless to the east-northeast of the intersection of State Highway 48 and State Highway 4. The facilityâ€™s southern border is the Brownsville ship channel, Brownsville, Cameron County",,Denied,Granted,25.963264,-97.550453,,1,place,,,,,Brownsville,TX,Cameron County,78520,US,TIGER/LineÂ® dataset from the US Census Bureau
+2017-0906-AIR,New Source Review Authorization; concrete crushing plant,"Cherry Crushed Concrete, Inc","9200 Winfield Road
+Houston, Harris County",,Granted,Granted,29.899629,-95.260553,,1,range_interpolation,9200,Winfield Rd,,,Houston,TX,Harris County,77050,US,TIGER/LineÂ® dataset from the US Census Bureau
+2017-0533-AIR,New Source Review Authorization; Construction of a new tunnel kiln and modification of an existing tunnel kiln,"Saint-Gobain Ceramics & Plastics, Inc","1500 Independence Avenue
+Bryan, Brazos County, Texas",,Granted,Granted with modifications,30.661555,-96.408839,,1,rooftop,1500,Independence Ave,,,Bryan,TX,Brazos County,77803,US,Brazos
+2017-0031-AIR,New Source Review Authorization; hot mix asphalt plant ,Jagoe-Public Company,"3020 Fort Worth Drive
+Denton, Denton County",,Granted,Granted,33.174632,-97.145359,,1,rooftop,3020,Ft Worth Dr,,,Denton,TX,Denton County,76205,US,City of Denton
+2016-0923-AIR,New Source Review Authorization; a wallboard manufacturing plant ,"Georgia-Pacific Gypsum, LLC","4164 Highway 285
+Quanah, Hardeman County",,Denied,Granted,34.31785,-99.822076,,1,rooftop,4164,St Hwy 285,,,Quanah,TX,Hardeman County,79252,US,Hardeman
+2016-0145-AIR,"Automated surface coating line, a paint mixing room (paint kitchen), a distillation room (solvent recycling room), and a regenerative thermal oxidizer; Permit by Rule?",Kloeckner Metals Corporation," 14200 Almeda Road
+Houston, Harris County",,Denied,Granted,29.60005,-95.424183,,1,rooftop,14200,Almeda Rd,,,Houston,TX,Harris County,77053,US,Harris
