@@ -1,10 +1,11 @@
 # tceq-cch-mapping
-# [Project folder](https://txriogrande.sharepoint.com/:f:/s/DataProjects/Eh-UwzdvvuVMm9-afDolXPkBKcO8SAtv7-V12Ei6P1M1Cg?e=VYNT7T)
+
+[Project folder](https://txriogrande.sharepoint.com/:f:/s/DataProjects/Eh-UwzdvvuVMm9-afDolXPkBKcO8SAtv7-V12Ei6P1M1Cg?e=VYNT7T)
 
 
-# Data Folders
+## Data Folders
 
-## input
+### input
 
 * tceq_cch_facilities.csv - This file should already be in your folder if you've cloned this repository. These are TCEQ facility addresses that we previously geocoded with Geocod.io, and manually verified with Google Maps. 
 
@@ -13,24 +14,24 @@
 * tx2020.pl - This is a folder containing all of the 2020 Census Redistricting Data released in legacy format on Aug. 16, 2021. Download the folder (here)[https://www2.census.gov/programs-surveys/decennial/2020/data/01-Redistricting_File--PL_94-171/Texas/], and unzip it in the input folder.
 
 
-## interim
+### interim
 
 
 
-## output
+### output
 
 
 
-# Scripts
-## analysis-acs-block-groups.R
+## Scripts
+### analysis-acs-block-groups.R
 
 This script produces the data layers in this [ArcGIS Online map] (https://arcg.is/Wy5XD)
 
 
-## pl_all_4_2020_dar.r
+### pl_all_4_2020_dar.r
 
 
 
-## analysis-decennial-blocks.R 
+### analysis-decennial-blocks.R 
 
 This script is a work in progress that attempts to recreate the data layers in analysis-acs-block-groups.R at the block level, instead of the block group level. 
