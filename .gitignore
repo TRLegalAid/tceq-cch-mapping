@@ -1,7 +1,7 @@
 #My random things
 input/tx2020.pl
 input/tl_2020_48_tabblock20
-interim/
+interim/*
 
 #Exceptions - this is here to make sure git tracks the interim folder even when it's empty
 !interim/.gitkeep
